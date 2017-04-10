@@ -1,4 +1,4 @@
-# TSAL
+# BSPD
 
 ## Rules
 [Read the f... rules](https://www.formulastudent.de/uploads/media/FS-Rules_2017_V1.1.pdf#subsection.4.5.5)
